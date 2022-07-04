@@ -73,6 +73,7 @@ module.exports={
     getWorkouts,
     getWorkout,
     createWorkout,
-    deleteWorkout
+    deleteWorkout,
+    updateWorkout
 }
 
